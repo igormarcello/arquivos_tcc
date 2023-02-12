@@ -1,2 +1,2 @@
-# arquivos_tcc
+# Arquivos do TCC
 Os código utilizados no TCC. 
